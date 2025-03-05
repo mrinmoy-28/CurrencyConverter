@@ -3,7 +3,8 @@
 A simple and interactive **Currency Converter** that fetches real-time exchange rates and displays country flags using an API. Built with **HTML, CSS, and JavaScript**.
 
 
-![Screenshot 2025-03-05 194145](https://github.com/user-attachments/assets/022d16dc-fb6d-4bc1-95eb-06516d3bcfbc)
+<img src="https://github.com/user-attachments/assets/022d16dc-fb6d-4bc1-95eb-06516d3bcfbc" width="300">
+
 
 ## 🚀 Features
 
